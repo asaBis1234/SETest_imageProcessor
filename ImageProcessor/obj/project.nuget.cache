@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "c3YrAdKWbP0+LU0JJOsdNdjb8/qLQiTVqVGA0eQ6GbfR17YPeEqS0SYTbggiAM7AqY/TAciMGiJPOCrjFFUtpg==",
+  "success": true,
+  "projectFilePath": "C:\\Asanka\\Project\\Test\\Aspnet\\ImageProcessor\\ImageProcessor\\ImageProcessor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AsankaRajanayakaBIST\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\AsankaRajanayakaBIST\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\AsankaRajanayakaBIST\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\AsankaRajanayakaBIST\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\AsankaRajanayakaBIST\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\AsankaRajanayakaBIST\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\AsankaRajanayakaBIST\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\AsankaRajanayakaBIST\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
